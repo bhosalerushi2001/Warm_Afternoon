@@ -35,16 +35,7 @@ This backend server is a console base individual project. This server can able t
   3. buy item  
 
 
-## Installation
 
-- copy this https://github.com/sanketsolanke4/warm-afternoon-3310.git
-- Select path where you want to store the project in your pc
-- open the corresponding file / folder with editor
-- open terminal of your editor
-- use  --> git clone (paste link) <-- 
-- after project cloned to your folder
-- go to "Main.java" inside "app" folder
-- run as java application
     
 ## Tech Stack
 
